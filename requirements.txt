@@ -1,0 +1,5 @@
+cffi==1.14.6
+numpy==1.21.0
+pycparser==2.20
+simpleaudio==1.0.4
+sounddevice==0.4.1
